@@ -17,9 +17,39 @@ padding: 2px;
 margin: 1px;
 }
 
-.column {
+.column1 {
   width: 23%;
   float: left;
   padding: 2px;
   margin: 1px;
+  background-color: blanchedalmond;
+}
+
+.column2 {
+  width: 23%;
+  float: left;
+  padding: 2px;
+  margin: 1px;
+  background-color: olive;
+}
+
+.column3 {
+  width: 23%;
+  float: left;
+  padding: 2px;
+  margin: 1px;
+  background-color: violet;
+}
+
+.column4 {
+  width: 23%;
+  float: left;
+  padding: 2px;
+  margin: 1px;
+  background-color: plum;
+}
+
+.center {
+  text-align: center;
+  font-weight: 200;
 }
