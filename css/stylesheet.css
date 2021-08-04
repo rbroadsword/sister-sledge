@@ -1,0 +1,20 @@
+body {
+  background-color: gold;
+}
+
+img {
+  float: left;
+  border: black solid 5px;
+}
+.sidebar {
+width: 30%;
+float: right;
+background-color: silver;
+border:black solid 3px;
+}
+
+.column {
+  width: 23%;
+  float: left;
+  padding: 2px;
+}
